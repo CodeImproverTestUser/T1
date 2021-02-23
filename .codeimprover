@@ -1,6 +1,11 @@
 {
-  "duplicationConfig": {    
+  "duplicationConfig": 
+  {
+    "exclusions": 
+    {
+      "pathPatterns": [".cs$"]     
+    },
     "markCheckAsFailedOnFoundDuplication": true,
-    "numberOfLinesToCompare": 6
+    "numberOfLinesToCompare": 7
   }
 }
