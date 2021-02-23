@@ -1,0 +1,6 @@
+{
+  "duplicationConfig": {    
+    "markCheckAsFailedOnFoundDuplication": true,
+    "numberOfLinesToCompare": 6
+  }
+}
