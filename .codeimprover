@@ -3,7 +3,7 @@
   {
     "exclusions": 
     {
-      "linePatterns": ["using \\S+;"]  
+      "linePatterns": ["musing \\S+;"]  
     },
     "markCheckAsFailedOnFoundDuplication": true,
     "numberOfLinesToCompare": 7
