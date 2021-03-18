@@ -1,0 +1,11 @@
+{
+  "duplicationConfig": 
+  {
+    "exclusions": 
+    {
+      "linePatterns": ["musing \\S+;"]  
+    },
+    "markCheckAsFailedOnFoundDuplication": true,
+    "numberOfLinesToCompare": 7
+  }
+}
