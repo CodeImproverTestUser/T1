@@ -19,7 +19,7 @@ namespace HelloWorld
             if (l9 == 0)
             {
                 if (l1 > l2) 
-                {
+                {//Kasper
                     return;
                 }
                 else
