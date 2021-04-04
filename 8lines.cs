@@ -3,7 +3,7 @@ l1 = v1;
             l3 = v3;
             l4 = v4;
             l5 = v5;
-            l6 = v6;
+            l6 = v6; //kasper
             l7 = v7;
             l8 = v8;
             
